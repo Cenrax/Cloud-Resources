@@ -8,3 +8,6 @@
 ## Infrastructure tools
 - https://towardsdatascience.com/ml-infrastructure-tools-for-production-1b1871eecafb
 - https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/
+- https://towardsdatascience.com/mlops-with-a-feature-store-816cfa5966e9
+- https://medium.com/@ODSC/continuous-delivery-for-machine-learning-d07f2d0f051
+- https://medium.com/design-and-tech-co/end-to-end-automated-environment-with-vagrant-ansible-docker-jenkins-and-gitlab-32bb91fbee40?_branch_match_id=847825371835040155
