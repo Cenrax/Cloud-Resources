@@ -13,4 +13,5 @@
 - https://medium.com/design-and-tech-co/end-to-end-automated-environment-with-vagrant-ansible-docker-jenkins-and-gitlab-32bb91fbee40?_branch_match_id=847825371835040155
 
 ## Use cases
-- https://link.medium.com/sgzDG0agW9
+- https://link.medium.com/sgzDG0agW9 : LinkedIn’s Pro-ML Architecture Summarizes Best Practices for Building Machine Learning at Scale
+- 
