@@ -24,3 +24,6 @@
 ## Books
 - https://5g.systemsapproach.org/
 
+
+## Repos
+- https://github.com/calee0219/awesome-5g
