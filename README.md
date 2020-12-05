@@ -1,3 +1,5 @@
+**These are the resources which I have studying on my own to understand cloud-computing
+
 # Cloud-Resources
 
 ## Kubernetes
