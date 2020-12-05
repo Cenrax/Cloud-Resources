@@ -20,6 +20,7 @@
 
 ## Useful Repo
 - https://github.com/wh211212/awesome-cloudnative#Orchestration&Management
+- https://github.com/ravens/awesome-telco --> Curated resourcs for Telco
 
 # 5G
 
