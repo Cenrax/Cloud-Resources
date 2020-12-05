@@ -15,3 +15,6 @@
 ## Use cases
 - https://link.medium.com/sgzDG0agW9 : LinkedIn’s Pro-ML Architecture Summarizes Best Practices for Building Machine Learning at Scale
 - https://towardsdatascience.com/designing-ml-orchestration-systems-for-startups-202e527d7897
+
+## Useful Repo
+- https://github.com/wh211212/awesome-cloudnative#Orchestration&Management
