@@ -18,3 +18,9 @@
 
 ## Useful Repo
 - https://github.com/wh211212/awesome-cloudnative#Orchestration&Management
+
+# 5G
+
+## Books
+- https://5g.systemsapproach.org/
+
