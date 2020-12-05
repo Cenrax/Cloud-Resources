@@ -29,3 +29,8 @@
 
 ## Repos
 - https://github.com/calee0219/awesome-5g
+
+## Application of Python in 5g ( Hands on and Theory Roadmap)
+
+- MIMO Techniques for 5G 
+  Project: PYTHON simulation of Wireless communication systems
