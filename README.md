@@ -22,6 +22,9 @@
 - https://github.com/wh211212/awesome-cloudnative#Orchestration&Management
 - https://github.com/ravens/awesome-telco --> Curated resourcs for Telco
 
+## Blogs
+- https://www.altoros.com/blog/kubernetes-networking-writing-your-own-simple-cni-plug-in-with-bash/
+
 # 5G
 
 ## Books
