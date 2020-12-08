@@ -17,10 +17,12 @@
 ## Use cases
 - https://link.medium.com/sgzDG0agW9 : LinkedIn’s Pro-ML Architecture Summarizes Best Practices for Building Machine Learning at Scale
 - https://towardsdatascience.com/designing-ml-orchestration-systems-for-startups-202e527d7897
+-https://ubuntu.com/blog/how-to-deploy-one-or-more-kubernetes-clusters-to-a-single-box -> How to deploy multiple machines in one VM
 
 ## Useful Repo
 - https://github.com/wh211212/awesome-cloudnative#Orchestration&Management
 - https://github.com/ravens/awesome-telco --> Curated resourcs for Telco
+
 
 ## Blogs
 - https://www.altoros.com/blog/kubernetes-networking-writing-your-own-simple-cni-plug-in-with-bash/
