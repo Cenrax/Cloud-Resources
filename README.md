@@ -19,6 +19,10 @@
 - https://towardsdatascience.com/designing-ml-orchestration-systems-for-startups-202e527d7897
 -https://ubuntu.com/blog/how-to-deploy-one-or-more-kubernetes-clusters-to-a-single-box -> How to deploy multiple machines in one VM
 
+## CNI
+- https://itnext.io/benchmark-results-of-kubernetes-network-plugins-cni-over-10gbit-s-network-updated-august-2020-6e1b757b9e49
+-https://youtu.be/6v_BDHIgOY8
+
 ## Useful Repo
 - https://github.com/wh211212/awesome-cloudnative#Orchestration&Management
 - https://github.com/ravens/awesome-telco --> Curated resourcs for Telco
