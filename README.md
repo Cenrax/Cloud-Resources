@@ -43,6 +43,7 @@
 
 ## Repos
 - https://github.com/calee0219/awesome-5g
+- https://www.linkedin.com/pulse/selected-public-speeches-papers-dr-david-soldani/?published=t
 
 ## Application of Python in 5g ( Hands on and Theory Roadmap)
 
