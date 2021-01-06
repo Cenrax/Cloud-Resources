@@ -33,6 +33,7 @@
 
 ## Blogs
 - https://www.altoros.com/blog/kubernetes-networking-writing-your-own-simple-cni-plug-in-with-bash/
+- https://hpccsystems.com/ --> Data Lake
 
 # 5G
 
