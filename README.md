@@ -19,11 +19,11 @@
 ## Use cases
 - https://link.medium.com/sgzDG0agW9 : LinkedIn’s Pro-ML Architecture Summarizes Best Practices for Building Machine Learning at Scale
 - https://towardsdatascience.com/designing-ml-orchestration-systems-for-startups-202e527d7897
--https://ubuntu.com/blog/how-to-deploy-one-or-more-kubernetes-clusters-to-a-single-box -> How to deploy multiple machines in one VM
+- https://ubuntu.com/blog/how-to-deploy-one-or-more-kubernetes-clusters-to-a-single-box -> How to deploy multiple machines in one VM
 
 ## CNI
 - https://itnext.io/benchmark-results-of-kubernetes-network-plugins-cni-over-10gbit-s-network-updated-august-2020-6e1b757b9e49
--https://youtu.be/6v_BDHIgOY8
+- https://youtu.be/6v_BDHIgOY8
 - https://blog.laputa.io/kubernetes-flannel-networking-6a1cb1f8ec7c --> Working of flannel
 
 ## Useful Repo
