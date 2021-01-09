@@ -6,6 +6,9 @@
 - https://gruntwork.io/guides/kubernetes/how-to-deploy-production-grade-kubernetes-cluster-aws/#kubernetes-architecture
 - https://blog.gruntwork.io/terraform-up-running-2nd-edition-early-release-is-now-available-b104fc29783f
 - https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1
+- https://www.youtube.com/watch?v=f_H24-s1yhk&feature=youtu.be&nbsp%3B - What happens when you create a pod in Kubernetes
+- https://blog.alexellis.io/self-hosting-kubernetes-on-your-raspberry-pi/ - How to host kubernetes on Raspberry pi
+
 
 ## Infrastructure tools
 - https://towardsdatascience.com/ml-infrastructure-tools-for-production-1b1871eecafb
@@ -15,6 +18,8 @@
 - https://medium.com/design-and-tech-co/end-to-end-automated-environment-with-vagrant-ansible-docker-jenkins-and-gitlab-32bb91fbee40?_branch_match_id=847825371835040155
 - https://jvns.ca/blog/2017/06/04/learning-about-kubernetes/
 - https://blog.laputa.io/kubernetes-flannel-networking-6a1cb1f8ec7c --> Working of Flannel
+- https://dev.to/timecampus/infrastructure-engineering-the-kubernetes-way-o8j --> Infrastructure Engineering
+- 
 
 ## Use cases
 - https://link.medium.com/sgzDG0agW9 : LinkedIn’s Pro-ML Architecture Summarizes Best Practices for Building Machine Learning at Scale
@@ -25,6 +30,7 @@
 - https://itnext.io/benchmark-results-of-kubernetes-network-plugins-cni-over-10gbit-s-network-updated-august-2020-6e1b757b9e49
 - https://youtu.be/6v_BDHIgOY8
 - https://blog.laputa.io/kubernetes-flannel-networking-6a1cb1f8ec7c --> Working of flannel
+- https://www.youtube.com/watch?v=7f_IP1RS8WY&feature=youtu.be --> Nice video on Calico
 
 ## Useful Repo
 - https://github.com/wh211212/awesome-cloudnative#Orchestration&Management
