@@ -8,6 +8,7 @@
 - https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1
 - https://www.youtube.com/watch?v=f_H24-s1yhk&feature=youtu.be&nbsp%3B - What happens when you create a pod in Kubernetes
 - https://blog.alexellis.io/self-hosting-kubernetes-on-your-raspberry-pi/ - How to host kubernetes on Raspberry pi
+- https://www.cncf.io/cncf-annual-report-2020/ - Annual Report of CCNF
 
 
 ## Infrastructure tools
