@@ -10,6 +10,7 @@
 - https://blog.alexellis.io/self-hosting-kubernetes-on-your-raspberry-pi/ - How to host kubernetes on Raspberry pi
 - https://www.cncf.io/cncf-annual-report-2020/ - Annual Report of CCNF
 - https://opensource.com/article/21/1/kubelinter -> Open source tools for analysing the errors in YAML file.
+- https://loft.sh/blog/kubernetes-readiness-probes-examples-common-pitfalls/ -->
 
 
 ## Infrastructure tools
