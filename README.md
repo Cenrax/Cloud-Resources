@@ -49,7 +49,8 @@
 ## Books
 - https://5g.systemsapproach.org/
 
-
+## Articles
+- https://cafetele.com/5g-mac-protocol/
 ## Repos
 - https://github.com/calee0219/awesome-5g
 - https://www.linkedin.com/pulse/selected-public-speeches-papers-dr-david-soldani/?published=t
