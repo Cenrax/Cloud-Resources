@@ -14,6 +14,7 @@
 - https://thenewstack.io/how-kubernetes-could-orchestrate-machine-learning-pipelines/ --> Kubernetes and Orchestration of ML pipeline
 - https://www.freecodecamp.org/news/the-docker-handbook/ ---> Handbook of Docker
 - https://nextlinklabs.com/
+- https://kubernetesreadme.com/
 
 
 ## Infrastructure tools
