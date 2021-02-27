@@ -15,6 +15,7 @@
 - https://www.freecodecamp.org/news/the-docker-handbook/ ---> Handbook of Docker
 - https://nextlinklabs.com/
 - https://kubernetesreadme.com/
+- https://www.witodelnat.eu/blog/2021/local-kubernetes-development
 
 
 ## Infrastructure tools
