@@ -59,6 +59,7 @@
 
 ## Articles
 - https://cafetele.com/5g-mac-protocol/
+- https://medium.com/@futuredon/opensource-5g-core-with-service-mesh-bba4ded044fa
 ## Repos
 - https://github.com/calee0219/awesome-5g
 - https://www.linkedin.com/pulse/selected-public-speeches-papers-dr-david-soldani/?published=t
