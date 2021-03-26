@@ -16,6 +16,7 @@
 - https://nextlinklabs.com/
 - https://kubernetesreadme.com/
 - https://www.witodelnat.eu/blog/2021/local-kubernetes-development
+- https://dev.to/gabrieltanner/modern-continuous-delivery-on-kubernetes-for-developers-5chf
 
 
 ## Infrastructure tools
