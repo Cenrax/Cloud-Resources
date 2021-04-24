@@ -17,6 +17,7 @@
 - https://kubernetesreadme.com/
 - https://www.witodelnat.eu/blog/2021/local-kubernetes-development
 - https://dev.to/gabrieltanner/modern-continuous-delivery-on-kubernetes-for-developers-5chf
+- https://semeniuc.ml/blog/how-to-connect-to-your-damn-kubernetes-pod
 
 
 ## Infrastructure tools
