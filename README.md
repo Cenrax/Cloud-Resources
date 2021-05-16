@@ -18,7 +18,7 @@
 - https://www.witodelnat.eu/blog/2021/local-kubernetes-development
 - https://dev.to/gabrieltanner/modern-continuous-delivery-on-kubernetes-for-developers-5chf
 - https://semeniuc.ml/blog/how-to-connect-to-your-damn-kubernetes-pod
-- https://www.freecodecamp.org/news/learn-docker-by-building-a-node-express-app/
+- https://www.freecodecamp.org/news/learn-docker-by-building-a-node-express-app/ .
 
 ## Infrastructure tools
 - https://towardsdatascience.com/ml-infrastructure-tools-for-production-1b1871eecafb
