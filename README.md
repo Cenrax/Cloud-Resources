@@ -60,6 +60,7 @@
 
 ## Books
 - https://5g.systemsapproach.org/
+- https://github.com/open5gs/open5gs
 
 ## Articles
 - https://cafetele.com/5g-mac-protocol/
