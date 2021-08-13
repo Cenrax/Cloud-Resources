@@ -20,6 +20,7 @@
 - https://semeniuc.ml/blog/how-to-connect-to-your-damn-kubernetes-pod
 - https://www.freecodecamp.org/news/learn-docker-by-building-a-node-express-app/ .
 - https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/
+- https://elastisys.com/automatic-multi-cluster-deployments-and-services-in-kubernetes/
 
 ## Infrastructure tools
 - https://towardsdatascience.com/ml-infrastructure-tools-for-production-1b1871eecafb
