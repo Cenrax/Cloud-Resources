@@ -3,7 +3,7 @@
 # Cloud-Resources.
 
 ## Kubernetes
-- https://gruntwork.io/guides/kubernetes/how-to-deploy-production-grade-kubernetes-cluster-aws/#kubernetes-architecture .
+- https://gruntwork.io/guides/kubernetes/how-to-deploy-production-grade-kubernetes-cluster-aws/#kubernetes-architecture ..
 - https://blog.gruntwork.io/terraform-up-running-2nd-edition-early-release-is-now-available-b104fc29783f.
 - https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1
 - https://www.youtube.com/watch?v=f_H24-s1yhk&feature=youtu.be&nbsp%3B - What happens when you create a pod in Kubernetes
